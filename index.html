@@ -7,5 +7,62 @@
     <link rel="stylesheet" href="./styles/main.css" />
     <title>Abu Studio Clothing</title>
   </head>
-  <body></body>
+  <body>
+    <div id="root">
+      <header class="site-header">
+        <div class="header">
+          <div class="navbar grid grid__3-cols">
+            <div class="logo__wrapper">
+              <a href="http://www.tanzeel.website">
+                <img
+                  src="./assets/logo.jpg"
+                  alt="Abu Studio logo"
+                  class="logo"
+                />
+              </a>
+            </div>
+            <nav class="navigation">
+              <a href="#" class="nav-link">Home</a>
+              <a href="#" class="nav-link">Collection</a>
+              <a href="#" class="nav-link">About Us</a>
+            </nav>
+            <nav class="user-action">
+              <a href="#" class="nav-link">Signup</a>
+              <a href="#" class="nav-link cta-link">Login</a>
+            </nav>
+          </div>
+        </div>
+      </header>
+      <section class="section-search">
+        <div class="search">
+          <h3 class="search__title">
+            <span>Find Your Favorite</span>
+            <span>
+              <svg class="svg-search">
+                <use xlink:href="./assets/svg-sprite.svg#search"></use>
+              </svg>
+              Clothing</span
+            >
+          </h3>
+          <div class="search__field">
+            <input
+              type="search"
+              name="search"
+              id="search"
+              class="input-search"
+              placeholder="Search Your Brand"
+            />
+            <button class="btn-search">
+              <svg class="svg-icon">
+                <use xlink:href="./assets/svg-sprite.svg#search"></use>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <div class="search-bg-blob">
+          <div class="search-bg-blob__child"></div>
+        </div>
+      </section>
+    </div>
+  </body>
 </html>

@@ -3,4 +3,10 @@
 
 @import "./base/reset";
 @import "./base/typography";
+@import "./base/base";
 @import "./base/svg";
+
+@import "./components/navbar";
+@import "./components/logo";
+@import "./components/search";
+@import "./components/bg-blobs";

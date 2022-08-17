@@ -1,12 +1,12 @@
 Hi 👋, I'm Tanzeel Akhtar, a passionate frontend developer from Pakistan.
 
-This is a **README** file of [Abu Studio Clothing Repository](https://github.com). It can help you extract important information about the project without digging through all the code. If you have any question please contact me at tanzeel.website@gmail.com
+This is a **README** file of [Abu Studio Clothing Repository](https://github.com/tanzeelNiazi/AbuStudioClothing). It can help you extract important information about the project without digging through all the code. If you have any question please contact me at tanzeel.website@gmail.com
 
 # Project Name: Abu Studio Clothing
 
 - Desktop only.
 
-### Website Demo: [Abu Studio Clothing](https://tanzeel.website)
+### Website Demo: [Ahttps://tanzeelniazi.github.io/AbuStudioClothing/](https://tanzeelniazi.github.io/AbuStudioClothing/)
 
 # Additional Information
 
