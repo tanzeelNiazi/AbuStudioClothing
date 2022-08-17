@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Kreon:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap");
+.grid {
+  display: grid;
+}
+
+.grid__2-cols {
+  grid: 1fr/repeat(2, 1fr);
+}
+
+.grid__3-cols {
+  grid: 1fr/repeat(3, 1fr);
+}
+
+.grid__4-cols {
+  grid: 1fr/repeat(4, 1fr);
+}
+
+.grid__5-cols {
+  grid: 1fr/repeat(5, 1fr);
+}
+
+.grid__6-cols {
+  grid: 1fr/repeat(6, 1fr);
+}
+
+.grid__7-cols {
+  grid: 1fr/repeat(7, 1fr);
+}
+
+.grid__8-cols {
+  grid: 1fr/repeat(8, 1fr);
+}
+
+.grid__9-cols {
+  grid: 1fr/repeat(9, 1fr);
+}
+
+.grid__10-cols {
+  grid: 1fr/repeat(10, 1fr);
+}
+
+.grid__11-cols {
+  grid: 1fr/repeat(11, 1fr);
+}
+
+.grid__12-cols {
+  grid: 1fr/repeat(12, 1fr);
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Ubuntu", sans-serif;
+  font-family: "Kreon", serif;
+}
+
+.svg-icon {
+  width: 3.2rem;
+  height: 3.2rem;
+  fill: #fff;
+}
+
+/*# sourceMappingURL=main.css.map */

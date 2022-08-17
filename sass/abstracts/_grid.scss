@@ -1,0 +1,47 @@
+.grid {
+  display: grid;
+}
+
+.grid__2-cols {
+  grid: 1fr / repeat(2, 1fr);
+}
+
+.grid__3-cols {
+  grid: 1fr / repeat(3, 1fr);
+}
+
+.grid__4-cols {
+  grid: 1fr / repeat(4, 1fr);
+}
+
+.grid__5-cols {
+  grid: 1fr / repeat(5, 1fr);
+}
+
+.grid__6-cols {
+  grid: 1fr / repeat(6, 1fr);
+}
+
+.grid__7-cols {
+  grid: 1fr / repeat(7, 1fr);
+}
+
+.grid__8-cols {
+  grid: 1fr / repeat(8, 1fr);
+}
+
+.grid__9-cols {
+  grid: 1fr / repeat(9, 1fr);
+}
+
+.grid__10-cols {
+  grid: 1fr / repeat(10, 1fr);
+}
+
+.grid__11-cols {
+  grid: 1fr / repeat(11, 1fr);
+}
+
+.grid__12-cols {
+  grid: 1fr / repeat(12, 1fr);
+}
