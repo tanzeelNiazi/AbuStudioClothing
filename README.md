@@ -42,3 +42,6 @@ Visit [www.tanzeel.website](http://www.tanzeel.website) or contact me on tanzeel
 Following Images/Designs/Icons are used for creation of this website:
 
 - [Website Design Inspiration](https://www.behance.net/gallery/147076115/E-commerce-website-landing-page/modules/830882561)
+- [Man in Sweater](https://www.pexels.com/photo/man-in-a-sweater-and-black-pants-6626903/)
+- [Man Wearing Black](https://www.pexels.com/photo/man-wearing-black-suit-2955376/)
+- [Woman Posing](https://www.pexels.com/photo/a-young-woman-posing-in-a-red-jacket-9286274/)
