@@ -1,0 +1,29 @@
+.delivery-process {
+  width: 75%;
+  margin: $unit__large auto;
+
+  &__title {
+    font-size: $unit__large;
+    text-align: center;
+    text-transform: capitalize;
+    margin: $unit__submedium auto;
+  }
+}
+
+.process {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $unit__huge;
+
+  .step {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    &__title {
+      text-transform: capitalize;
+    }
+  }
+}

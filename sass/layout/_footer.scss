@@ -1,0 +1,79 @@
+.footer {
+  margin: auto;
+  width: 85%;
+  padding-top: $unit__large;
+  gap: $unit__large;
+
+  .logo__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: $unit__normal auto;
+  }
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: $unit__small;
+}
+
+.column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  justify-self: center;
+
+  &__title {
+    font-size: $unit__medium;
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: $unit__small;
+  }
+}
+
+.email-field {
+  position: relative;
+}
+
+.input-email {
+  height: 3.6rem;
+  width: 100%;
+  border: 0;
+}
+
+.button-email {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 10px;
+  border: none;
+  background: transparent;
+  font-size: $unit__submedium;
+}
+
+.footer-link {
+  color: $color__light;
+  padding: $unit__normal;
+  background: $color__secondary;
+  border-radius: 50px;
+  transition: all 0.3s;
+
+  &:hover {
+    background: $color__tertiary;
+  }
+}
+
+.copyright {
+  position: relative;
+  background: $color__dark;
+  margin: $unit__large auto 0 auto;
+  width: 75%;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $color__light;
+}
