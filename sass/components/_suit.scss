@@ -1,0 +1,40 @@
+.collection__suit {
+  padding: $unit__normal;
+  border: 2px solid #444;
+  border-radius: 20px;
+  width: 30rem;
+  justify-self: center;
+}
+
+.suit__image__wrapper {
+  width: 25rem;
+  overflow: hidden;
+}
+
+.suite__image {
+  width: 100%;
+  border-radius: 50%;
+  display: block;
+}
+
+.suit-info,
+.suit-cost {
+  margin: $unit__small auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: $unit__large;
+}
+
+.suit__name {
+  font-size: $unit__medium;
+}
+
+.suit-link {
+  transition: all 0.3s;
+
+  &:hover,
+  &:active {
+    color: $color__secondary;
+  }
+}

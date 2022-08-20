@@ -45,3 +45,7 @@ Following Images/Designs/Icons are used for creation of this website:
 - [Man in Sweater](https://www.pexels.com/photo/man-in-a-sweater-and-black-pants-6626903/)
 - [Man Wearing Black](https://www.pexels.com/photo/man-wearing-black-suit-2955376/)
 - [Woman Posing](https://www.pexels.com/photo/a-young-woman-posing-in-a-red-jacket-9286274/)
+- [Smiling Boy](https://www.pexels.com/photo/smiling-boy-wearing-white-shirt-leaning-on-wall-1620796/)
+- [Woman wearing Tuxedo](https://www.pexels.com/photo/blond-woman-with-long-hair-wearing-tuxedo-10040257/)
+- [Man wearing Yellow Tshirt](https://www.pexels.com/photo/man-wearing-yellow-crew-neck-t-shirt-and-blue-denim-jeans-1018911/)
+- [Woman wearing Saree](https://www.pexels.com/photo/photo-of-woman-wearing-red-sari-2531734/)
